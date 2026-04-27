@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/nicholas-m-21b054371"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Sophomore at Okawood University with a strong interest in cybersecurity and information technology, seeking opportunities to expand my technical skills, gain hands-on experience, and contribute to real-world IT and security projects
+Sophomore at Oakwood University with a strong interest in cybersecurity and information technology, seeking opportunities to expand my technical skills, gain hands-on experience, and contribute to real-world IT and security projects
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to jump into this field, specifically aiming to join a Security Operations Center (SOC) as an Intern.
+My journey in computer science has led me to cybersecurity, and I am now eager to jump into this field, seeking a Cybersecurity Analyst internship to gain hands-on experience in security monitoring, alert triage, incident response, and threat analysis. .
 
 
 ## Certifications
