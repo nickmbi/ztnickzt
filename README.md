@@ -32,7 +32,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-- SOC Automation Project
+- SOC Automation Project (In Progress)
 - <a href="https://github.com/ztnickzt/Azure-Honeypot-and-SIEM-Detection-Lab-">Azure Honeypot and SIEM Detection Lab</a>
 - SOC Simulator THM
 - Windows Event Log Analysis with Splunk
