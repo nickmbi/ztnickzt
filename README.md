@@ -2,11 +2,11 @@
 <a href="https://www.linkedin.com/in/nicholas-m-21b054371"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Sophomore at Oakwood University with a strong interest in cybersecurity and information technology, seeking opportunities to expand my technical skills, gain hands-on experience, and contribute to real-world IT and security projects
+Im a Sophomore at Oakwood University with a strong interest in cybersecurity and information technology, seeking opportunities to expand my technical skills, gain hands-on experience, and contribute to real-world IT and security projects
 
 ## Objective
 
-My journey in computer science has led me to cybersecurity, and I am now eager to jump into this field, seeking a Cybersecurity internship.
+I have always loved computers, especially as a huge gamer growing up. My interest in technology led me to study computer science and eventually discover cybersecurity. I am now eager to continue growing in this field and am actively seeking a cybersecurity internship where I can apply my skills, gain hands-on experience, and contribute to a security-focused team.
 
 
 ## Certifications
