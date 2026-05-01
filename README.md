@@ -32,5 +32,6 @@ I have always loved computers, especially as a huge gamer growing up. My interes
 
 
 ## Projects
+- Building a Network (In Progress)
 - <a href="https://github.com/ztnickzt/Azure-Honeypot-and-SIEM-Detection-Lab-">Azure Honeypot and SIEM Detection Lab</a>
 - <a href="https://github.com/ztnickzt/Windows-Event-Log-Analysis-with-Splunk">Windows Event Log Analysis with Splunk </a>
