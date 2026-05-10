@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/nicholas-m-21b054371"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Im a Sophomore at Oakwood University with a strong interest in cybersecurity and information technology, seeking opportunities to expand my technical skills, gain hands-on experience, and contribute to real-world IT and security projects
+Im a Sophomore at Oakwood University with a strong interest in cybersecurity, seeking opportunities to expand my technical skills, gain hands-on experience, and contribute to real-world security projects
 
 ## Objective
 
